@@ -6,7 +6,6 @@ DOMAIN-SUFFIX,n.mm880.xyz
 DOMAIN-SUFFIX,emby.edu.kg
 DOMAIN-SUFFIX,free.lilyemby.com
 DOMAIN-SUFFIX,emby.n150.asia
-DOMAIN-SUFFIX,hgemby.qzz.io
 DOMAIN-SUFFIX,a.mooguu.top
 DOMAIN-SUFFIX,play.chilledmelon.com
 DOMAIN-SUFFIX,embyplus.org
@@ -26,3 +25,6 @@ DOMAIN-SUFFIX,embymv.link
 DOMAIN-SUFFIX,onatoshi.114514.quest
 DOMAIN-SUFFIX,hka-emby.aliz.work
 DOMAIN-SUFFIX,emby.fan
+DOMAIN-SUFFIX,111660.xyz
+DOMAIN-SUFFIX,qzz.io
+DOMAIN-SUFFIX,帝acg.xyz
