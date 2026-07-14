@@ -5,3 +5,4 @@ DOMAIN-SUFFIX,stars302.steven037.xyz
 DOMAIN-SUFFIX,ac2026.live 
 DOMAIN-SUFFIX,my.deng.lol
 DOMAIN-SUFFIX,sting.deng.lat
+DOMAIN-SUFFIX,zhousanwan.xyz
