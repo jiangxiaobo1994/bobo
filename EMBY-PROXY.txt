@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,embymv.link
 DOMAIN-SUFFIX,onatoshi.114514.quest
 DOMAIN-SUFFIX,hka-emby.aliz.work
 DOMAIN-SUFFIX,emby.fan
+DOMAIN-SUFFIX,emby.pro
 DOMAIN-SUFFIX,111660.xyz
 DOMAIN-SUFFIX,qzz.io
 DOMAIN-SUFFIX,帝acg.xyz
