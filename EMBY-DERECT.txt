@@ -6,3 +6,4 @@ DOMAIN-SUFFIX,ac2026.live
 DOMAIN-SUFFIX,my.deng.lol
 DOMAIN-SUFFIX,sting.deng.lat
 DOMAIN-SUFFIX,zhousanwan.xyz
+DOMAIN-SUFFIX,lilyemby.cc
