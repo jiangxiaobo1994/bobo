@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,test.28.al
 DOMAIN-SUFFIX,tg.eoos.top
-DOMAIN-SUFFIX,cf.bozai.indevs.in
 DOMAIN-SUFFIX,echoflix.de
 DOMAIN-SUFFIX,lite.cn2gias.uk
 DOMAIN-SUFFIX,emby.heisi.org
