@@ -8,4 +8,3 @@ DOMAIN-SUFFIX,sting.deng.lat
 DOMAIN-SUFFIX,zhousanwan.xyz
 DOMAIN-SUFFIX,lilyemby.cc
 DOMAIN-SUFFIX,wawajiao.cc.cd
-DOMAIN-SUFFIX,eoos.lol
