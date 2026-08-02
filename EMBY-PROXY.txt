@@ -30,3 +30,4 @@ DOMAIN-SUFFIX,qzz.io
 DOMAIN-SUFFIX,帝acg.xyz
 DOMAIN-SUFFIX,gxwplay.com
 DOMAIN-SUFFIX,eoos.lol
+DOMAIN-SUFFIX,us.aemby.de
