@@ -32,3 +32,7 @@ DOMAIN-SUFFIX,帝acg.xyz
 DOMAIN-SUFFIX,gxwplay.com
 DOMAIN-SUFFIX,eoos.lol
 DOMAIN-SUFFIX,us.aemby.de
+DOMAIN-SUFFIX,aaa.yusen6.ccwu.cc
+DOMAIN-SUFFIX,emby.yusen.us.ci
+DOMAIN-SUFFIX,embya.yusen.cyou
+DOMAIN-SUFFIX,emby.yusen.cc.cd
