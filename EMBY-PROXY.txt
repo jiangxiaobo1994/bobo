@@ -1,6 +1,7 @@
 DOMAIN-SUFFIX,inemby.us.ci
 DOMAIN-SUFFIX,sfcj.org
 DOMAIN-SUFFIX,eb.zzm.li
+DOMAIN-SUFFIX,vipdc.covh.eu.org
 DOMAIN-SUFFIX,emby.yxmm.xyz
 DOMAIN-SUFFIX,n.mm880.xyz
 DOMAIN-SUFFIX,emby.edu.kg
