@@ -12,3 +12,4 @@ DOMAIN-SUFFIX,emby.5625678.xyz
 DOMAIN-SUFFIX,yingbox.app
 DOMAIN-SUFFIX,emby.mm880.xyz
 DOMAIN-SUFFIX,emby.eoos.lol
+DOMAIN-SUFFIX,echos.cc.cd
