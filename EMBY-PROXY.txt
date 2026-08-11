@@ -37,3 +37,4 @@ DOMAIN-SUFFIX,emby.yusen.us.ci
 DOMAIN-SUFFIX,embya.yusen.cyou
 DOMAIN-SUFFIX,emby.yusen.cc.cd
 DOMAIN-SUFFIX,emby.teawaya.com
+DOMAIN-SUFFIX,emby.ibukifuko.tech
