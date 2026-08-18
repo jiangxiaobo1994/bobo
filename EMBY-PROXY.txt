@@ -12,7 +12,6 @@ DOMAIN-SUFFIX,play.chilledmelon.com
 DOMAIN-SUFFIX,embyplus.org
 DOMAIN-SUFFIX,emby.my
 DOMAIN-SUFFIX,test.28.al
-DOMAIN-SUFFIX,tg.eoos.top
 DOMAIN-SUFFIX,echoflix.de
 DOMAIN-SUFFIX,lite.cn2gias.uk
 DOMAIN-SUFFIX,emby.heisi.org
@@ -29,7 +28,7 @@ DOMAIN-SUFFIX,emby.pro
 DOMAIN-SUFFIX,111660.xyz
 DOMAIN-SUFFIX,帝acg.xyz
 DOMAIN-SUFFIX,gxwplay.com
-DOMAIN-SUFFIX,eoos.lol
+DOMAIN-SUFFIX,www.eoos.top
 DOMAIN-SUFFIX,us.aemby.de
 DOMAIN-SUFFIX,aaa.yusen6.ccwu.cc
 DOMAIN-SUFFIX,emby.yusen.us.ci
