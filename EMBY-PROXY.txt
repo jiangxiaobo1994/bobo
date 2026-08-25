@@ -38,3 +38,6 @@ DOMAIN-SUFFIX,emby.teawaya.com
 DOMAIN-SUFFIX,emby.ibukifuko.tech
 DOMAIN-SUFFIX,emby.605305.xyz
 DOMAIN-SUFFIX,jf.dqx99999.shop
+DOMAIN-SUFFIX,yykx.top
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
