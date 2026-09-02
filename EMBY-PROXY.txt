@@ -40,4 +40,4 @@ DOMAIN-SUFFIX,emby.605305.xyz
 DOMAIN-SUFFIX,jf.dqx99999.shop
 DOMAIN-SUFFIX,yykx.top
 DOMAIN-SUFFIX,nl.ftp2.eu.org
-DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,emby.ibukifuko.tech
