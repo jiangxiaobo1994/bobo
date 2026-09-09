@@ -44,3 +44,4 @@ DOMAIN-SUFFIX,emby.ibukifuko.tech
 DOMAIN-SUFFIX,emby.dijia.de
 DOMAIN-SUFFIX,yxrkemby.haosao.de:443
 DOMAIN-SUFFIX,emby.haosao.de:443
+DOMAIN-SUFFIX,us-proxy.gxwplay.com
