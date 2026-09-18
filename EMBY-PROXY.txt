@@ -45,3 +45,4 @@ DOMAIN-SUFFIX,emby.dijia.de
 DOMAIN-SUFFIX,yxrkemby.haosao.de:443
 DOMAIN-SUFFIX,emby.haosao.de:443
 DOMAIN-SUFFIX,us-proxy.gxwplay.com
+DOMAIN-SUFFIX,test.inemby.us.ci
