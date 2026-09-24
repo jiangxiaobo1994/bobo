@@ -28,3 +28,5 @@ DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,toutiao.com
 DOMAIN-SUFFIX,emby.kingemby.com
 DOMAIN-SUFFIX,itsmygo.tv
+DOMAIN-SUFFIX,tbagemby.tbag.dpdns.org
+DOMAIN-SUFFIX,tbagemby.tbag.qzz.io
