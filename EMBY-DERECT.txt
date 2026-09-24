@@ -30,3 +30,4 @@ DOMAIN-SUFFIX,emby.kingemby.com
 DOMAIN-SUFFIX,itsmygo.tv
 DOMAIN-SUFFIX,tbagemby.tbag.dpdns.org
 DOMAIN-SUFFIX,tbagemby.tbag.qzz.io
+DOMAIN-SUFFIX,www.yuntv.de
