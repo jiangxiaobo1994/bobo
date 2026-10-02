@@ -26,7 +26,7 @@ DOMAIN-SUFFIX,hka-emby.aliz.work
 DOMAIN-SUFFIX,emby.fan
 DOMAIN-SUFFIX,emby.pro
 DOMAIN-SUFFIX,111660.xyz
-DOMAIN-SUFFIX,帝acg.xyz
+DOMAIN-SUFFIX,emby.di0.uk
 DOMAIN-SUFFIX,gxwplay.com
 DOMAIN-SUFFIX,www.eoos.top
 DOMAIN-SUFFIX,us.aemby.de
