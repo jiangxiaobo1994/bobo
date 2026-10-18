@@ -44,3 +44,5 @@ DOMAIN-SUFFIX,us-proxy.gxwplay.com
 DOMAIN-SUFFIX,test.inemby.us.ci
 DOMAIN-SUFFIX,emby.kingemby.com
 DOMAIN-SUFFIX,media.emby.pro
+DOMAIN-SUFFIX,vvproalcdn.xoxofast.cn
+DOMAIN-SUFFIX,vvprocf.notfounda.shop
