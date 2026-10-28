@@ -34,6 +34,6 @@ DOMAIN-SUFFIX,emby.yusen.us.ci
 DOMAIN-SUFFIX,yusen.cyou
 DOMAIN-SUFFIX,yusen.cc.cd
 DOMAIN-SUFFIX,afreecatv.com
-#DOMAIN-SUFFIX,sooplive.co.kr
-#DOMAIN-SUFFIX,sooplive.com
-DOMAIN-SUFFIX,wybcs.work
+DOMAIN-SUFFIX,sooplive.co.kr
+DOMAIN-SUFFIX,sooplive.com
+
