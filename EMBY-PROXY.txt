@@ -47,3 +47,4 @@ DOMAIN-SUFFIX,media.emby.pro
 DOMAIN-SUFFIX,vvproalcdn.xoxofast.cn
 DOMAIN-SUFFIX,vvprocf.notfounda.shop
 DOMAIN-SUFFIX,media.freshippo.uno
+DOMAIN-SUFFIX,embymv.cc
