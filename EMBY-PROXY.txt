@@ -49,3 +49,4 @@ DOMAIN-SUFFIX,vvprocf.notfounda.shop
 DOMAIN-SUFFIX,media.freshippo.uno
 DOMAIN-SUFFIX,embymv.cc
 DOMAIN-SUFFIX,wybcs.work
+DOMAIN-SUFFIX,speedtest-babybus.apple-cdn.net
