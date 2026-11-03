@@ -51,3 +51,4 @@ DOMAIN-SUFFIX,embymv.cc
 DOMAIN-SUFFIX,wybcs.work
 DOMAIN-SUFFIX,speedtest-babybus.apple-cdn.net
 DOMAIN-SUFFIX,emby.9527.new.tg
+DOMAIN-SUFFIX,emby.barrybarry.top
