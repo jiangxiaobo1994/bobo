@@ -1,0 +1,47 @@
+# ---------- [0. 矩阵通用服务与配置] ----------
+DOMAIN-SUFFIX,gdzhimou.com,DIRECT
+# ---------- [1. B 站 / 哔哩哔哩 (MVision)] ----------
+DOMAIN-SUFFIX,bilibili.com,DIRECT
+DOMAIN-SUFFIX,hdslb.com,DIRECT
+DOMAIN-SUFFIX,bilivideo.com,DIRECT
+DOMAIN-SUFFIX,bilivideo.cn,DIRECT
+DOMAIN-SUFFIX,biliapi.net,DIRECT
+DOMAIN-SUFFIX,biliapi.com,DIRECT
+DOMAIN-SUFFIX,acg.tv,DIRECT
+DOMAIN-SUFFIX,acgvideo.com,DIRECT
+DOMAIN-SUFFIX,bilibili.tv,DIRECT
+DOMAIN-SUFFIX,biliimg.com,DIRECT
+DOMAIN-SUFFIX,b23.tv,DIRECT
+DOMAIN-SUFFIX,bsbsb.top,DIRECT
+# ---------- [2. 抖音 / 字节跳动 (MFlow)] ----------
+DOMAIN,lf3-static.bytednsdoc.com,DIRECT
+DOMAIN,v5-dy-o-abtest.zjcdn.com,DIRECT
+DOMAIN-SUFFIX,douyin.com,DIRECT
+DOMAIN-SUFFIX,douyinvod.com,DIRECT
+DOMAIN-SUFFIX,idouyinvod.com,DIRECT
+DOMAIN-SUFFIX,douyinpic.com,DIRECT
+DOMAIN-SUFFIX,douyincdn.com,DIRECT
+DOMAIN-SUFFIX,douyinstatic.com,DIRECT
+DOMAIN-SUFFIX,amemv.com,DIRECT
+DOMAIN-SUFFIX,iesdouyin.com,DIRECT
+DOMAIN-SUFFIX,snssdk.com,DIRECT
+DOMAIN-SUFFIX,byteimg.com,DIRECT
+DOMAIN-SUFFIX,bytevod.com,DIRECT
+DOMAIN-SUFFIX,bytetos.com,DIRECT
+DOMAIN-SUFFIX,bytedance.com,DIRECT
+DOMAIN-SUFFIX,zijieapi.com,DIRECT
+DOMAIN-SUFFIX,pstatp.com,DIRECT
+DOMAIN-SUFFIX,toutiao.com,DIRECT
+DOMAIN-SUFFIX,ixigua.com,DIRECT
+DOMAIN-SUFFIX,ixiguavideo.com,DIRECT
+# ---------- [3. 网易云音乐 (MMuse)] ----------
+DOMAIN-SUFFIX,music.163.com,DIRECT
+DOMAIN-SUFFIX,163.com,DIRECT
+DOMAIN-SUFFIX,126.net,DIRECT
+DOMAIN-SUFFIX,netease.com,DIRECT
+DOMAIN-SUFFIX,ydstatic.com,DIRECT
+# ---------- [4. 果果短剧 (MGuo)] ----------
+DOMAIN-SUFFIX,fqnovel.com,DIRECT
+DOMAIN-SUFFIX,hongguoduanju.com,DIRECT
+DOMAIN-SUFFIX,fqnovelpic.com,DIRECT
+DOMAIN-SUFFIX,bytecdn.cn,DIRECT
